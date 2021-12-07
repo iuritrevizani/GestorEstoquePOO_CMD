@@ -1,0 +1,7 @@
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto3GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\bin\Debug\GestorEstoquePOO_CMD.exe.config
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto3GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\bin\Debug\GestorEstoquePOO_CMD.exe
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto3GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\bin\Debug\GestorEstoquePOO_CMD.pdb
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto3GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\obj\Debug\GestorEstoquePOO_CMD.csproj.AssemblyReference.cache
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto3GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\obj\Debug\GestorEstoquePOO_CMD.csproj.CoreCompileInputs.cache
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto3GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\obj\Debug\GestorEstoquePOO_CMD.exe
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto3GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\GestorEstoquePOO_CMD\obj\Debug\GestorEstoquePOO_CMD.pdb
